@@ -1,4 +1,4 @@
-# Proyecto Seguimiento pacientes veterinaria
+# Proyecto Control pacientes veterinaria
 
 Proyecto realizado usando react con react-vite app, jsx, hooks, props y tailwind CSS
 
